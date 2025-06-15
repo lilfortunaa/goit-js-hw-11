@@ -4,7 +4,7 @@ import {
   clearGallery,
   showLoader,
   hideLoader,
-} from './js/render-function.js';
+} from './js/render-functions.js';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
